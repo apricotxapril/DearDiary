@@ -1,1 +1,1 @@
-# DearDiary
+# MyJournal
